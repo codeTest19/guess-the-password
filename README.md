@@ -11,9 +11,9 @@
 
 #### More commands
 
-### `yarn start:dev`
-### `yarn start:prod`
-### `yarn lint`
+#### `yarn start:dev`
+#### `yarn start:prod`
+#### `yarn lint`
 
 ---
 ## Web
@@ -26,6 +26,6 @@
 
 #### More commands
 
-### `yarn test`
+#### `yarn test`
 
 
